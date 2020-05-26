@@ -317,7 +317,7 @@
   },
   "custom_json": {
     "name": "Custom operation",
-    "authority": "posting",
+    "authority": "active",
     "schema": {
       "required_auths": {
         "type": "array",
